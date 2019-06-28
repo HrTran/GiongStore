@@ -1,4 +1,4 @@
-package com.giongstore.vn.structural;
+package com.giongstore.vn.structural.adapter_pattern;
 
 /**
  * Created by huytt99 on 20/06/19

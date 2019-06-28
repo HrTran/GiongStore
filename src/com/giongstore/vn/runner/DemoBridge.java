@@ -1,9 +1,9 @@
 package com.giongstore.vn.runner;
 
-import com.giongstore.vn.structural.PayByCreditCard;
-import com.giongstore.vn.structural.PayInCash;
-import com.giongstore.vn.structural.Payment;
-import com.giongstore.vn.structural.PaymentMethod;
+import com.giongstore.vn.structural.bridge_pattern.PayByCreditCard;
+import com.giongstore.vn.structural.bridge_pattern.PayInCash;
+import com.giongstore.vn.structural.bridge_pattern.Payment;
+import com.giongstore.vn.structural.bridge_pattern.PaymentMethod;
 
 /**
  * Created by huytt99 on 21/06/19

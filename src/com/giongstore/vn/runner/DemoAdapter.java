@@ -1,6 +1,6 @@
 package com.giongstore.vn.runner;
 
-import com.giongstore.vn.structural.ImportTool;
+import com.giongstore.vn.structural.adapter_pattern.ImportTool;
 
 /**
  * Created by huytt99 on 21/06/19

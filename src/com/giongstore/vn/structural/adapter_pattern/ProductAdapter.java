@@ -1,4 +1,4 @@
-package com.giongstore.vn.structural;
+package com.giongstore.vn.structural.adapter_pattern;
 
 import com.giongstore.vn.creation.Clothes;
 import com.giongstore.vn.creation.Product;
