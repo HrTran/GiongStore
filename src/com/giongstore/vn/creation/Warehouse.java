@@ -8,16 +8,16 @@ import java.util.List;
 /**
  * Created by huytt99 on 6/1/19
  */
-public class KhoGiong {
+public class Warehouse {
   private List<Product> listAvail = new ArrayList<>();
 
-  private static KhoGiong ourInstance = new KhoGiong();
+  private static Warehouse ourInstance = new Warehouse();
 
-  public static KhoGiong getInstance() {
+  public static Warehouse getInstance() {
     return ourInstance;
   }
 
-  private KhoGiong() {
+  private Warehouse() {
   }
 
   public List<Product> listAvailableProduct() {

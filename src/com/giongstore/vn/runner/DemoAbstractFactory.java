@@ -9,7 +9,7 @@ import java.util.List;
  */
 public class DemoAbstractFactory {
   public static void main(String[] args) {
-    KhoGiong kho = KhoGiong.getInstance();
+    Warehouse warehouse = Warehouse.getInstance();
     ItemFactory factory = FactoryProducer.getFactory(false);
 
     Product tshirt_Owen = factory.getProduct("Clothes", "Owen T-shirt", 24.95);
@@ -18,11 +18,11 @@ public class DemoAbstractFactory {
     System.out.println(watch_Seiko.info());
     System.out.println(watch_Seiko.wrapPrice());
 
-    kho.addItemToKho(tshirt_Owen);
-    kho.addItemToKho(watch_Seiko);
+    warehouse.addItemToKho(tshirt_Owen);
+    warehouse.addItemToKho(watch_Seiko);
 
-    List<Product> listItemInKho = kho.listAvailableProduct();
-    System.out.println("The number of item in KhoGiong: " + listItemInKho.size());
+    List<Product> listItemInWarehouse = warehouse.listAvailableProduct();
+    System.out.println("The number of item in Warehouse: " + listItemInWarehouse.size());
 
 
   }
