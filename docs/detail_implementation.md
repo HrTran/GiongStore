@@ -2,7 +2,7 @@
 
 ## Table of contents
 1. Creation patterns
-    1. [Factory Pattern](###-1.-Factory-pattern)
+    1. [Factory Pattern](#1-factory-pattern)
     2. Abstract factory pattern
     3. Singleton pattern
     4. Builder pattern
