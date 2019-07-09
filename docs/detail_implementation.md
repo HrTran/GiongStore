@@ -2,21 +2,21 @@
 
 ## Table of contents
 1. Creation patterns
-    1. [Factory Pattern](#1-factory-pattern)
-    2. Abstract factory pattern
-    3. Singleton pattern
-    4. Builder pattern
-    5. Prototype pattern
+    1. [Factory Pattern](#i-factory-pattern)
+    2. [Abstract factory pattern](#ii-abstract-factory-pattern)
+    3. [Singleton pattern](#iii-singleton-pattern)
+    4. [Builder pattern](#iv-builder-pattern)
+    5. [Prototype pattern](#v-prototype-pattern)
 2. Structural patterns
-    1. Adapter pattern
-    2. Bridge pattern
-    3. Filter pattern
-    4. Composite pattern
-    5. Decorator pattern
-    6. Facade pattern
-    7. Flyweight pattern
-    8. Proxy pattern
-    9. Chain of responsibility
+    1. [Adapter pattern](#i-factory-pattern)
+    2. [Bridge pattern](#ii-factory-pattern)
+    3. [Filter pattern](#iii-factory-pattern)
+    4. [Composite pattern](#iv-factory-pattern)
+    5. [Decorator pattern](#v-factory-pattern)
+    6. [Facade pattern](#vi-factory-pattern)
+    7. [Flyweight pattern](#vii-factory-pattern)
+    8. [Proxy pattern](#viii-factory-pattern)
+    9. [Chain of responsibility](#ix-factory-pattern)
 3. Behavior patterns
     1. Command pattern
     2. Interpreter pattern
@@ -32,12 +32,60 @@
 4. References
 
 
-## Creation patterns
-### 1. Factory pattern
+## 1. Creation patterns
+### i. Factory pattern
 ![alt text](../img/Factory2.png)  
-Intend: dynamically create classes without know how to initialize them. Just know how to use class ProductFactory.     
+- Intend: dynamically create objects without know how to initialize them. Can be easily extend same type of object without duplicate code.  
+- SOLID: Single Responsibility Principle, Open/Closed Principle     
+[Back to table of contents](#table-of-contents)  
+
+### ii. Abstract Factory pattern
+- Intend:  
+- SOLID:  
 [Back to table of contents](#table-of-contents)
 
-### 2. Abstract Factory pattern
-Class: 
+### iii. Singleton pattern
+- Intend:  
+- SOLID:  
+[Back to table of contents](#table-of-contents)  
 
+### iv. Builder pattern
+- Intend:  
+- SOLID:  
+[Back to table of contents](#table-of-contents)  
+
+### v. Prototype pattern
+- Intend:  
+- SOLID:  
+[Back to table of contents](#table-of-contents)  
+
+## 2. Structural patterns
+### i. Adapter pattern
+Intend:  
+SOLID:  
+[Back to table of contents](#table-of-contents)  
+
+### ii. Bridge pattern
+Intend:  
+SOLID:  
+[Back to table of contents](#table-of-contents)  
+
+### iii. Filter pattern
+Intend:  
+SOLID:  
+[Back to table of contents](#table-of-contents)  
+
+### iv. Composite pattern
+Intend:  
+SOLID:  
+[Back to table of contents](#table-of-contents)  
+
+### v. Decorator pattern
+Intend:  
+SOLID:  
+[Back to table of contents](#table-of-contents)  
+
+### vi. Facade pattern
+Intend:  
+SOLID:  
+[Back to table of contents](#table-of-contents)  
