@@ -1,8 +1,6 @@
 package com.giongstore.vn.runner;
 
-import com.giongstore.vn.structural.Category;
-
-import java.util.Calendar;
+import com.giongstore.vn.structure.composite_pattern.Category;
 
 public class DemoComposite {
     public static void main(String[] args) {

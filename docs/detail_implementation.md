@@ -18,17 +18,16 @@
     8. [Proxy pattern](#viii-proxy-pattern)
 3. Behavior patterns
     1. [Chain of responsibility](#i-chain-of-responsibility-pattern)
-    2. Command pattern
-    3. Interpreter pattern
-    4. Iterator pattern
-    5. Mediator pattern
-    6. Memento pattern
-    7. Observer pattern
-    8. State pattern
-    9. Null Object pattern
-    10. Strategy pattern
-    11. Template pattern
-    12. Visitor pattern
+    2. [Command pattern](#ii-command-pattern)
+    3. [Iterator pattern](#iii-iterator-pattern)
+    4. [Mediator pattern](#iv-mediator-pattern)
+    5. [Memento pattern](#v-memento-pattern)
+    6. [Observer pattern](#vi-observer-pattern)
+    7. [State pattern](#vii-state-pattern)
+    8. [Null Object pattern](#i-null-object-pattern)
+    9. [Strategy pattern](#i-strategy-pattern)
+    10. [Template pattern](#i-template-pattern)
+    11. [Visitor pattern](#i-visitor-pattern)
 4. References              
 
 
@@ -102,6 +101,61 @@ SOLID:
 [Back to table of contents](#table-of-contents)
 
 ## 3. Behaviour patterns  
+### i. Chain of responsibility
+Intent:   
+SOLID:    
+[Back to table of contents](#table-of-contents)  
+
+### ii. Command pattern  
+Intent:   
+SOLID:   
+[Back to table of contents](#table-of-contents)  
+
+### iii. Iterator pattern
+Intent:   
+SOLID:   
+[Back to table of contents](#table-of-contents)  
+
+### iv. Mediator pattern
+Intent:   
+SOLID:  
+[Back to table of contents](#table-of-contents)  
+
+### v. Memento pattern
+Intent:   
+SOLID:   
+[Back to table of contents](#table-of-contents)  
+
+### vi. Observer pattern
+Intent:   
+SOLID:  
+[Back to table of contents](#table-of-contents)  
+
+### vii. State pattern
+Intent:    
+SOLID:  
+[Back to table of contents](#table-of-contents)  
+
+### viii. Strategy pattern
+Intent:   
+SOLID:  
+[Back to table of contents](#table-of-contents)  
+ 
+### ix. Null pattern
+Intent:    
+SOLID:  
+[Back to table of contents](#table-of-contents)  
+ 
+### x. Template pattern
+Intent:   
+SOLID:  
+[Back to table of contents](#table-of-contents)  
+
+### xi. Visitor pattern
+Intent:    
+SOLID:  
+[Back to table of contents](#table-of-contents)   
+
 
 ## 4. References
 1. [Design Patterns in Java by Tutorialspoint](https://www.tutorialspoint.com/design_pattern/index.htm)

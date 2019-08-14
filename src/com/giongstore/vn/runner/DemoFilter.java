@@ -4,9 +4,9 @@ import com.giongstore.vn.creation.FactoryProducer;
 import com.giongstore.vn.creation.Fashion;
 import com.giongstore.vn.creation.ItemFactory;
 import com.giongstore.vn.creation.Product;
-import com.giongstore.vn.structural.filter_pattern.AndCriteria;
-import com.giongstore.vn.structural.filter_pattern.FashionCriteria;
-import com.giongstore.vn.structural.filter_pattern.PriceCriteria;
+import com.giongstore.vn.structure.filter_pattern.AndCriteria;
+import com.giongstore.vn.structure.filter_pattern.FashionCriteria;
+import com.giongstore.vn.structure.filter_pattern.PriceCriteria;
 
 import java.util.ArrayList;
 import java.util.List;

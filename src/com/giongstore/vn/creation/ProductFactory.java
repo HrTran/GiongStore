@@ -1,6 +1,11 @@
 package com.giongstore.vn.creation;
 
 import com.giongstore.vn.behavior.NullProduct;
+import com.giongstore.vn.structure.flyweight_pattern.ProductType;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
 
 /**
  * Created by huytt99 on 6/1/19

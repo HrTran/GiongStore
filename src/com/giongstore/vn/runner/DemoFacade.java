@@ -2,7 +2,7 @@ package com.giongstore.vn.runner;
 
 import com.giongstore.vn.creation.Product;
 import com.giongstore.vn.creation.ProductFactory;
-import com.giongstore.vn.structural.Bill;
+import com.giongstore.vn.structure.facade_pattern.Bill;
 
 import java.util.ArrayList;
 import java.util.List;
