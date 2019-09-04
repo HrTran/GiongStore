@@ -23,4 +23,26 @@ public class Cart {
             System.out.println(item.info());
         }
     }
+
+    public List<Product> getItems() {
+        return items;
+    }
+
+    public void setItems(List<Product> items) {
+        this.items = items;
+    }
+
+    public void buy() {
+        if(items.size() > 0) {
+            for(Product product : items) {
+                System.out.println("Add " + product.getName() + " to delivery queue!");
+            }
+        }
+    }
+
+    public void cancel(){
+        for(Product product : items) {
+            System.out.println("Remove " + product.getName() + " from delivery queue!");
+        }
+    }
 }

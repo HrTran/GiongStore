@@ -41,4 +41,14 @@ public class Watches extends Accesories {
   public Double wrapPrice() {
     return (price + 2.12);
   }
+
+  @Override
+  public Video getVideoDescription() {
+    return null;
+  }
+
+  @Override
+  public void visit(ProductVisitor productVisitor) {
+    productVisitor.visitWatch(this);
+  }
 }
