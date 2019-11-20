@@ -1,2 +1,2 @@
 # GiongStore
-For practice Design Pattern
+Design Pattern practice
